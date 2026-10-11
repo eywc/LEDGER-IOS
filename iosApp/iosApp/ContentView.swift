@@ -513,7 +513,7 @@ struct ReceiveSheetView: View {
 
                     VStack(spacing: 12) {
                         Text(asset.receiveAddress)
-                            .font(.system(size: 13, weight: .monospaced))
+                            .font(.system(size: 13, design: .monospaced))
                             .foregroundColor(.white)
                             .multilineTextAlignment(.center)
                             .padding()
