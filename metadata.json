@@ -1,0 +1,7 @@
+{
+  "name": "Ledger Wallet",
+  "description": "Simulates the Ledger Wallet app with live prices, customizable balances, and transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
